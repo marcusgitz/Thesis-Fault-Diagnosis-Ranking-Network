@@ -1,4 +1,4 @@
-"""Extracted BN Builder from BN_V2.ipynb for cleaner code organization. The BN structure and CPDs are defined here, while inference and experiments are done in the experiments notebook."""
+"""Extracted BN Builder from BN_V2.ipynb (found in https://github.com/marcusgitz/Thesis-fault-diagnosis-BN) for cleaner code organization. The BN structure and CPDs are defined here, while inference and experiments are done in the experiments notebook."""
 from pgmpy.models import DiscreteBayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
 
