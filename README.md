@@ -35,6 +35,6 @@ Run all cells from top to bottom.
 
 ## Notes
 
-The ranking-network engine is a prototype for the electrical toy circuit in this thesis. It enumerates the probabilistic fault variables and propagates the deterministic variables. It is exact for this model, but it is not a general industrial inference enginge.
+The ranking-network engine is a prototype for the electrical toy circuit in this thesis. It enumerates the probabilistic fault variables and propagates the deterministic variables. It is exact for this model, but it is not a general industrial inference engine.
 
 The probability-to-rank conversion is used only for the comparison with the BN baseline. In a real ranking-network workflow, ranks should be elicited directly from experts.
