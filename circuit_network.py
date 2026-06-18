@@ -3,7 +3,7 @@ circuit_network.py
 
 Builds the RankingNetwork for the 10-cube electrical circuit (toy example).
 Source of truth: bn_full_cpt_specification_v_2.md and
-bn_fault_priors_and_cpt_elicitation_for_10_cube_system.md.
+bn_fault_priors_and_cpt_elicitation_for_10_cube_system.md. (These files are found in https://github.com/marcusgitz/Thesis-fault-diagnosis-BN)
 
 Each Bayesian-network CPT is converted to a local kappa-table:
   - deterministic CPTs    -> rank 0 (consistent) and INF (impossible)
